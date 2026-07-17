@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 1999,
+    "image": "https://sony.scene7.com/is/image/sonyglobalsolutions/WH-CH520_Product_intro_Pink_01_M?$productIntroPlatemobile$&fmt=png-alpha",
+    "description": "Over-ear wireless headphones with up to 20 hours of battery life and deep bass sound.",
+    "stock": 25,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Band",
+    "category": "Electronics",
+    "price": 1299,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/1/YP/LY/FV/78305368/m4-fitness-band.png",
+    "description": "Tracks steps, heart rate, and sleep. Water resistant with a 7-day battery backup.",
+    "stock": 40,
+    "rating": 4.1
+  },
+  {
+    "id": 3,
+    "name": "Men's Casual Sneakers",
+    "category": "Fashion",
+    "price": 1499,
+    "image": "https://img.tatacliq.com/images/i20//437Wx649H/MP000000014349252_437Wx649H_202409301720331.jpeg",
+    "description": "Comfortable everyday sneakers with breathable mesh upper.",
+    "stock": 60,
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "name": "Women's Handbag",
+    "category": "Fashion",
+    "price": 999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStmVvmPxoZUVFZxDyKocB6r58s_AZxGITQ7CIAmnzsdg&s=10",
+    "description": "Stylish handbag with multiple compartments, perfect for daily use.",
+    "stock": 35,
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Non-Stick Frying Pan",
+    "category": "Home & Kitchen",
+    "price": 799,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5OB5vO909e56YJkD5b0SxdfzfrLa91JAJCByOcfOM81R4HH2iETpKtolh&s=10",
+    "description": "Durable non-stick frying pan, ideal for everyday cooking.",
+    "stock": 50,
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "name": "LED Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 649,
+    "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/table-lamp/1/a/b/rechargeable-led-study-lamp-with-pen-stand-mobile-holder-study-enriched-3-original-imahh2k4pjgfpkwy.jpeg?q=90",
+    "description": "Adjustable brightness LED desk lamp with USB charging port.",
+    "stock": 45,
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 549,
+    "image": "https://lirp.cdn-website.com/md/dmtmpl/20438d1a-d8a9-40db-a0e0-8a1ad14378fd/dms3rep/multi/opt/yoga+mat+hover-640w.jpg",
+    "description": "Anti-slip yoga mat, 6mm thick, lightweight and easy to carry.",
+    "stock": 70,
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Backpack 30L",
+    "category": "Fashion",
+    "price": 1199,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMhf3H2Ax3ksieYxtQ54wPFwCHmqG20ue1-15GrlEMQNcD6EkCQpFAlh0F&s=10",
+    "description": "Spacious 30L backpack with laptop compartment, great for college and travel.",
+    "stock": 30,
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1799,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSceR6FejDDbD0-hyLurSqBzffxXcbKfV5SqQ4kT7ar3sy0lzVfDNErNGk&s=10",
+    "description": "Portable Bluetooth speaker with rich bass and 10-hour playback.",
+    "stock": 20,
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "name": "Study Table Organizer",
+    "category": "Home & Kitchen",
+    "price": 399,
+    "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/desk-organizer/u/b/z/pen-stand-desk-organizer-with-drawer-compartments-for-storing-original-imahytq5hftynyac.jpeg?q=90",
+    "description": "Wooden desk organizer to keep your study table neat and tidy.",
+    "stock": 55,
+    "rating": 4.0
+  }
+]
