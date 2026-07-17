@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 2,
+        "name": "Smart Fitness Band",
+        "price": 1299,
+        "quantity": 2
+      }
+    ],
+    "totalAmount": 2598,
+    "shippingAddress": {
+      "fullname": "naincy gupta",
+      "address": "pandripani",
+      "city": "chhatisgarh",
+      "pincode": "496242"
+    },
+    "paymentMethod": "Cash on Delivery",
+    "status": "Placed",
+    "createdAt": "2026-07-13T05:21:44.105Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "items": [
+      {
+        "productId": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "price": 1999,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 1999,
+    "shippingAddress": {
+      "fullname": "namita",
+      "address": "ranchi 85,main road",
+      "city": "ranchi",
+      "pincode": "834001"
+    },
+    "paymentMethod": "Credit/Debit Card",
+    "status": "Placed",
+    "createdAt": "2026-07-17T17:07:16.735Z"
+  }
+]

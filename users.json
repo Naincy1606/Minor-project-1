@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Naincy gupta",
+    "email": "naincygupta087@gmail.com",
+    "password": "$2a$10$zDCV7uW3ozATZTf9qlEkN.i2b2CWOCf0I8RJ7CnVuovjxIrrHRVQC",
+    "createdAt": "2026-07-13T05:19:50.842Z"
+  },
+  {
+    "id": 2,
+    "name": "namita",
+    "email": "namita05@gmail.com",
+    "password": "$2a$10$Mxz5nxDOltfLJzP3xePQNezgjFzczW8KGzBkZC8xekAjARCMMD.VO",
+    "createdAt": "2026-07-17T17:06:19.795Z"
+  },
+  {
+    "id": 3,
+    "name": "naincy gupta",
+    "email": "naincy@gmail.com",
+    "password": "$2a$10$on9LlVaSzG7/kkZFZtH8o.JvQWrbgFXRvqCKPN2W5ky4guqBJm4w.",
+    "createdAt": "2026-07-17T17:15:19.382Z"
+  }
+]
